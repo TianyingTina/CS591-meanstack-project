@@ -1,0 +1,13 @@
+{
+  "name": "db",
+  "version": "0.0.1",
+  "private": true,
+  "description": "express-mongodb",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.0",
+    "ejs": "*"
+  }
+}
